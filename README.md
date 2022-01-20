@@ -1,5 +1,5 @@
 # react skeleton
-Frontend for customized chromecast app
+Skeleton for react projects
 
 ## Meta information
 Languages: typescript, HTML, CSS\
